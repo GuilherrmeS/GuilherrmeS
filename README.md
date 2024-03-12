@@ -1,4 +1,4 @@
-### Hi there!! My name is Guilherme, and i'm currently working with react/node using typescript on both.
+### Hi there!! My name is Guilherme, and i'm currently working with react/node using typescript.
 
 <div align="center">
   <a href="https://github.com/kiryuss">

@@ -1,9 +1,9 @@
 ### Hi there!! My name is Guilherme, and i'm currently working with react/node using typescript.
 
 <div align="center">
-  <a href="https://github.com/kiryuss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiryuss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryuss&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/guilherrmeS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherrmeS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherrmeS&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
   <div style="display: inline_block"><br>
